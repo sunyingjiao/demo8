@@ -53,7 +53,10 @@ a{
 	margin-top:2px;
 	margin-left: 5px; 
 }
-
+.wbwx a{
+	display: block;
+	float: left;
+}
 .searcher{
 	height: 80px;
 	width: 1200px;
@@ -88,6 +91,7 @@ a{
 	margin-left: 15px;
 }
 .cart{
+	display: block;
 	float: right;
 	margin-top:20px; 
 	margin-right: 0px;
@@ -332,3 +336,4 @@ a{
 #gotop{
 	border-bottom-width:0; 
 }
+
